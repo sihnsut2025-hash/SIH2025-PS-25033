@@ -7,18 +7,18 @@ This README provides an overview of the project, including team details, relevan
 
 ## Team Details
 
-**Team Name:** TEAM_NAME_HERE
+**Team Name:** Null Node
 
 **Team Leader:** [@USERNAME](https://github.com/USERNAME)
 
 **Team Members:**
 
-- **MEMBER_1** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_2** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_3** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_4** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_5** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_6** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
+- **Bhumika Aswal** - 2024UIN2353 - [@USERNAME](https://github.com/USERNAME)
+- **Daksh Dham** - 2024UIN6023 - [@USERNAME](https://github.com/USERNAME)
+- **Bhavya Maheshwari** - 2024UIN2373 - [@USERNAME](https://github.com/USERNAME)
+- **Kaustubh Agarwal** - 2024UIN3349 - [@USERNAME](https://github.com/USERNAME)
+- **Soumya Prasad** - 2024UIN3361 - [@USERNAME](https://github.com/USERNAME)
+- **Lian Suan Mang** - 2024UIN3340 - [@USERNAME](https://github.com/USERNAME)
 
 ## Project Links
 

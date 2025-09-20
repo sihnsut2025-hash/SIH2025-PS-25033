@@ -22,7 +22,7 @@ This README provides an overview of the project, including team details, relevan
 
 ## Project Links
 
-- **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
+- **SIH Presentation:** [Final SIH Presentation](SIH2025-IDEA-Presentation-pptx .pdf)
 - **Video Demonstration:** [Watch Video](https://youtu.be/jwHaGwNWyDo)
 - **Live Deployment:** [View Deployment](https://avsarx.pythonanywhere.com)
 - **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)

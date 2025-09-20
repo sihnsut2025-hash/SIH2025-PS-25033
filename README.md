@@ -18,12 +18,12 @@ This README provides an overview of the project, including team details, relevan
 - **Bhavya Maheshwari** - 2024UIN2373 - [@USERNAME](https://github.com/USERNAME)
 - **Kaustubh Agarwal** - 2024UIN3349 - [@USERNAME](https://github.com/USERNAME)
 - **Soumya Prasad** - 2024UIN3361 - [@USERNAME](https://github.com/USERNAME)
-- **Lian Suan Mang** - 2024UIN3340 - [@USERNAME](https://github.com/USERNAME)
+- **Lian Suan Mang** - 2024UIN3340 - [@josephliann](https://github.com/josephliann)
 
 ## Project Links
 
 - **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
-- **Video Demonstration:** https://youtu.be/jwHaGwNWyDo
-- **Live Deployment:** https://avsarx.pythonanywhere.com
+- **Video Demonstration:** [Watch Video](https://youtu.be/jwHaGwNWyDo)
+- **Live Deployment:** [View Deployment](https://avsarx.pythonanywhere.com)
 - **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)
 - **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)

@@ -16,7 +16,7 @@ This README provides an overview of the project, including team details, relevan
 - **Bhumika Aswal** - 2024UIN2353 - [@USERNAME](https://github.com/USERNAME)
 - **Daksh Dham** - 2024UIN6023 - [@USERNAME](https://github.com/USERNAME)
 - **Bhavya Maheshwari** - 2024UIN2373 - [@USERNAME](https://github.com/USERNAME)
-- **Kaustubh Agarwal** - 2024UIN3349 - [@USERNAME](https://github.com/USERNAME)
+- **Kaustubh Agarwal** - 2024UIN3349 - [@USERNAME](Kaustubh-Ag0)
 - **Soumya Prasad** - 2024UIN3361 - [@soumya1301](https://github.com/soumya1301)
 - **Lian Suan Mang** - 2024UIN3340 - [@josephliann](https://github.com/josephliann)
 

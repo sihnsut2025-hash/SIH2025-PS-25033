@@ -7,13 +7,13 @@ This README provides an overview of the project, including team details, relevan
 
 ## Team Details
 
-**Team Name:** Null Node
+**Team Name:** NULL NODE
 
-**Team Leader:** [@USERNAME](https://github.com/USERNAME)
+**Team Leader:** [@bhumikaaaswal91](https://github.com/bhumikaaaswal91)
 
 **Team Members:**
 
-- **Bhumika Aswal** - 2024UIN2353 - [@USERNAME](https://github.com/USERNAME)
+- **Bhumika Aswal** - 2024UIN2353 - [@bhumikaaaswal91](https://github.com/bhumikaaaswal91)
 - **Daksh Dham** - 2024UIN6023 - [@USERNAME](https://github.com/USERNAME)
 - **Bhavya Maheshwari** - 2024UIN2373 - [@USERNAME](https://github.com/USERNAME)
 - **Kaustubh Agarwal** - 2024UIN3349 - [@Kaustubh-Ag0](https://github.com/Kaustubh-Ag0)

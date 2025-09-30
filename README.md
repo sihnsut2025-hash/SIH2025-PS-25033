@@ -26,4 +26,4 @@ This README provides an overview of the project, including team details, relevan
 - **Video Demonstration:** [Watch Video](https://youtu.be/EVhAsE9wliE)
 - **Live Deployment:** [View Deployment](https://avsarx.pythonanywhere.com)
 - **Source Code:** [GitHub Repository](https://github.com/sihnsut2025-hash/SIH2025-PS-25033/tree/main/source%20code)
-- **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
+

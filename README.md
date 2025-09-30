@@ -1,7 +1,7 @@
 # SIH2025-PS-25034
 
 # PS Chosen SIH Hackathon
-Al-Based Internship Recommendation Engine for PM Internship Scheme
+Al-Based Internship Allocation Engine for PM Internship Scheme
 
 This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.
 
@@ -9,11 +9,11 @@ This README provides an overview of the project, including team details, relevan
 
 **Team Name:** Null Node
 
-**Team Leader:** [@USERNAME](https://github.com/USERNAME)
+**Team Leader:** [@bhumikaaaswal91](https://github.com/bhumikaaaswal91)
 
 **Team Members:**
 
-- **Bhumika Aswal** - 2024UIN2353 - [@USERNAME](https://github.com/USERNAME)
+- **Bhumika Aswal** - 2024UIN2353 - [@bhumikaaaswal91](https://github.com/bhumikaaaswal91)
 - **Daksh Dham** - 2024UIN6023 - [@FunnyOwl27](https://github.com/FunnyOwl27)
 - **Bhavya Maheshwari** - 2024UIN2373 - [@USERNAME](https://github.com/USERNAME)
 - **Kaustubh Agarwal** - 2024UIN3349 - [@Kaustubh-Ag0](https://github.com/Kaustubh-Ag0)
